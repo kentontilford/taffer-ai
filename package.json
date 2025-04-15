@@ -1,0 +1,8 @@
+{
+  "name": "taffer-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "server": "cd server && npm start"
+  }
+}

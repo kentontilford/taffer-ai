@@ -1,0 +1,9 @@
+{
+  "bar_name": "The Rusty Tap",
+  "location": "Tucson, AZ",
+  "reported_issues": ["Slow service", "No foot traffic", "High staff turnover", "Dirty bathrooms"],
+  "monthly_revenue": 12000,
+  "seating_capacity": 85,
+  "owner_mindset": "Overwhelmed but trying",
+  "customer_reviews": ["Smells bad", "Bartender ignored us", "Food was cold"]
+}
